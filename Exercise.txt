@@ -1,0 +1,5 @@
+1. The terminal is an interface where you can type and execute text based commands.
+2. Git is a verison control system that lets you manage and keep track of your c
+ode history. While Github is a cloud based hosting service that lets manage Git
+repositories.
+3. Github allows your work to be posted in front of the public.

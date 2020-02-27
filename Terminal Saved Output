@@ -1,0 +1,42 @@
+Last login: Tue Feb 25 14:59:49 on ttys000
+MacBook-Pro:~ jordanguzman$ cd
+MacBook-Pro:~ jordanguzman$ ls -a
+.			.bash_profile		Downloads
+..			.bash_sessions		Library
+.CFUserTextEncoding	.vscode			Movies
+.DS_Store		Applications		Music
+.Trash			Desktop			Pictures
+.bash_history		Documents		Public
+MacBook-Pro:~ jordanguzman$ mkdir Basics
+MacBook-Pro:~ jordanguzman$ cd Desktop
+MacBook-Pro:Desktop jordanguzman$ mkdir Basics
+MacBook-Pro:Desktop jordanguzman$ cd Basics
+MacBook-Pro:Basics jordanguzman$ ls
+MacBook-Pro:Basics jordanguzman$ touch Exercise.txt
+MacBook-Pro:Basics jordanguzman$ ls
+Exercise.txt
+MacBook-Pro:Basics jordanguzman$ open Exercise.txt
+MacBook-Pro:Basics jordanguzman$ vi exercise.txt
+1. The terminal is an interface where you can type and execute text based commands.
+2. Git is a verison control system that lets you manage and keep track of your c
+ode history. While Github is a cloud based hosting service that lets manage Git
+repositories.
+3. Github allows your work to be posted in front of the public.
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+
